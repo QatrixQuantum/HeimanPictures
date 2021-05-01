@@ -18,9 +18,10 @@ Country = os.environ.get("COUNTRY", "🇮🇳") # I Respect Every Countries Sovi
 
 [![mailid badge](https://img.shields.io/badge/Heiman%20Pictures-30302f?style=for-the-badge&logo=gmail)](mailto:HeimanPictures5219@gmail.com)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=HeimanPictures)
+*  Mail Him I Not Intrested In This
 
-* Mail Him I Not Intrested In This
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=QatrixQuantum)
+
 
 ## My Info <img src="https://github.com/QatrixQuantum/QatrixQuantum/blob/main/Design/Hi.gif" width="30px"></h2>
 
