@@ -50,12 +50,6 @@ Country = os.environ.get("COUNTRY", "🇮🇳") # I Respect Every Countries Sovi
     
 [![QatrixQuantum Git Stats](https://github-readme-stats.vercel.app/api?username=QatrixQuantum&include_all_commits=true&count_private=true&theme=highcontrast)](https://github.com/QatrixQuantum/)
 
-```
-Don't Go With GitHub Stats As It Only Shows Stats Of the Open-Source Repos. 
-So I have 100+ Repos Private And Contributed In Many Users Private Repos.
-So, Don't Underestimate Any User Having Low Stats.. 😝😝🤪
-```
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QatrixQuantum&layout=compact&theme=radical)](https://github.com/HeimanPictures)
 
 [![portfolio badge](https://img.shields.io/badge/Check_out_my-portfolio-rblue?style=for-the-badge&logo=git&logoColor=white)](http://heimanbotz.tk/)
