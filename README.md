@@ -14,7 +14,7 @@ Age = int(os.environ.get("AGE", "17"))
 Country = os.environ.get("COUNTRY", "🇮🇳") # I Respect Every Countries Soviernity(Republic)
 ```
 #### 
-[![telegram badge](https://img.shields.io/badge/@Heiman%20Pictures-30302f?style=for-the-badge&logo=telegram)](https://t.me/HeimanCreation)
+[![telegram badge](https://img.shields.io/badge/@Qatrix%20Quantum-30302f?style=for-the-badge&logo=telegram)](https://t.me/HeimanCreation)
 
 [![mailid badge](https://img.shields.io/badge/Heiman%20Pictures-30302f?style=for-the-badge&logo=gmail)](mailto:HeimanPictures5219@gmail.com)
 
